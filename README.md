@@ -1,6 +1,9 @@
 Datatables-Bootstrap3
 =====================
 
+Forked from Jowin/Datatables-Bootstrap3
+Not sure what changes I plan to make as yet :)
+
 Quick Start
 -------------------------------
 Copy these files and the images inside assets to your project and include them in the page.
