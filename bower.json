@@ -1,0 +1,28 @@
+{
+  "name": "Datatables-Bootstrap3",
+  "version": "0.0.0",
+  "homepage": "https://github.com/lukens/datatables-bootstrap-3",
+  "authors": [
+		"Jowin <jowinsam@gmail.com>",
+    "Luke Noel-Storr <lukens@me.com>",
+		"Serge Margovsky <smargovsky@gmail.com>"
+  ],
+  "description": "DataTables adaptation to work with Bootstrap 3",
+  "main": [
+    "./BS3/dist/js/datatables.js", 
+    "./BS3/dist/css/datatables.css"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.0.0",
+    "datatables": "git://github.com/DataTables/DataTables.git#4549646891a951ab935d6b3058382186d1f06e22"
+  },
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

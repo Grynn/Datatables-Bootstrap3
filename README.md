@@ -1,16 +1,15 @@
-Datatables-Bootstrap3
-=====================
+datatables bootstrap 3
+======================
 
 Forked from Jowin/Datatables-Bootstrap3
 Not sure what changes I plan to make as yet :)
 
 Quick Start
 -------------------------------
-Copy these files and the images inside assets to your project and include them in the page.
+Copy these files to your project and include them in the page.
 
-1. assets/css/datatables.css
-2. assets/js/datatables.js
-3. assets/images/*  
+1. dist/css/datatables.css
+2. dist/js/datatables.js
 
 Please note : If you copy the images to a folder other than images in your project, be sure to update the image path in the datatables.css file.
 
