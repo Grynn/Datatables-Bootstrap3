@@ -1,11 +1,12 @@
 {
   "name": "Datatables-Bootstrap3",
   "version": "0.0.0",
-  "homepage": "https://github.com/lukens/datatables-bootstrap-3",
+  "homepage": "https://github.com/Grynn/Datatables-Bootstrap3",
   "authors": [
 		"Jowin <jowinsam@gmail.com>",
-    "Luke Noel-Storr <lukens@me.com>",
-		"Serge Margovsky <smargovsky@gmail.com>"
+    		"Luke Noel-Storr <lukens@me.com>",
+		"Serge Margovsky <smargovsky@gmail.com>",
+		"Vishal Doshi <vishal.doshi@gmail.com>"
   ],
   "description": "DataTables adaptation to work with Bootstrap 3",
   "main": [
